@@ -1,6 +1,6 @@
 ## vite + vue3 + ThreeJs
 
-### 1.install and run
+### Install dependencies by running
 
 ```bash
 pnpm install
